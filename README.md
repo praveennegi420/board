@@ -12,3 +12,5 @@ Client -
 2. cd board
 3. npm i
 4. npm start
+
+Reach out to me via praveennegicse@gmail.com
