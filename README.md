@@ -1,5 +1,7 @@
 ### Board Assignment
 
+Deployment Link: https://board-application.netlify.app/
+
 Tech Used- React.js, Css, Chart.js
 
 Steps to set up :
