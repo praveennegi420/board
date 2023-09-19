@@ -2,7 +2,7 @@
 
 Deployment Link: https://board-application.netlify.app/
 
-Tech Used- React.js, Css, Chart.js
+Tech Used- React.js, Css, Chart.js, auth0
 
 Steps to set up :
 
